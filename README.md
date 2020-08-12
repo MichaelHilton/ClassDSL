@@ -1,5 +1,12 @@
 # CourseDSLPrivate
 
+## Schedule
+
+|Week|Day|Unit|Lecture|Topics|Reading|
+|---|---|---|---|---|---|
+|1|09012020|Intro|SE as a human activity; risk| | 
+|1|09022020|Intro|Tools for collaborative software development | | 
+|1|09032020|Intro|SE as a human activity; risk| | 
 
 ### Schedule
 
