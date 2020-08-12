@@ -12,17 +12,15 @@ with other developers in their projects.
 
 **Activity 1: Creating a repo and committing files**
 
-  - > Create a
-    > [<span class="underline">GitHub</span>](https://github.com/)
-    > account.
+  -  Create a [<span class="underline">GitHub</span>](https://github.com/) account.
 
-  - > Create an empty repository.
+  -  Create an empty repository.
 
-  - > Clone the repository to your machine.
+  -  Clone the repository to your machine.
 
-  - > Create a README.md file with your name.
+  -  Create a README.md file with your name.
 
-  - > Commit and push the file.
+  -  Commit and push the file.
 
 **Activity 2: Branching and merging**
 
