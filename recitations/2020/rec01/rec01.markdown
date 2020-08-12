@@ -1,3 +1,7 @@
+# 313-Recitation 1: Tools for collaborative software development
+### Git & GitHub
+
+
 **Goal:** After this recitation, the students should be able to use Git
 and GitHub for their teamwork in this course and other projects.
 Students should know about the Gitflow workflow and how to collaborate
