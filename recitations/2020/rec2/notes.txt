@@ -1,0 +1,17 @@
+During this recitation, I had them convert the Docker commands used to start
+the database and mayan-edms systems into a single Docker compose file.
+
+- Mistakenly, I didn't realize that the project itself had a docker-compose
+in one of it's subdirectories which some of the students had already been
+using (1 in recitation 1, 3 in recitation 2.)
+
+- Students in recitation 2 asked what the point was in writing one when one
+was already there. I told them that there was benefit in *learning* how to
+write one themselves rather than just using what's there, as it always won't
+be there. As expected, even the students who had been using it had trouble
+writing the new one -- minor things, formatting, yaml things, knowing what
+goes where. Most students finished right before the end of the recitation, so
+I think it was successful overall.
+
+- *Lots* of Docker issues: old versions, incorrectly installed versions,
+problems with file shares, etc.
