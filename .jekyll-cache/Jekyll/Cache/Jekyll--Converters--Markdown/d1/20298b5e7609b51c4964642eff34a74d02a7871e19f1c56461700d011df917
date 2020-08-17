@@ -1,0 +1,1994 @@
+I"çŠ<p>Table</p>
+
+<p>{"Week"=&gt;"1", "Lec"=&gt;"1", "Day"=&gt;"Tue", "date"=&gt;"27-Aug", "Unit"=&gt;"Intro", "Topics"=&gt;"SE as a human activity and business concern; risk", "reading"=&gt;nil, "Who"=&gt;"Both", "Gone"=&gt;nil, "Recitations"=&gt;"Tools for collaborative software development", "Out"=&gt;nil, "Assignment Due"=&gt;nil, "Notes"=&gt;nil, "slideslink"=&gt;nil, "recDate"=&gt;"28-Aug", "dateplain"=&gt;"20190827", "Previous readings (to not lose them)"=&gt;nil}</p>
+
+<p>==================================================</p>
+
+<table>
+ <tr>
+      
+        <th>Week</th>
+      
+        <th>Lec</th>
+      
+        <th>Day</th>
+      
+        <th>date</th>
+      
+        <th>Unit</th>
+      
+        <th>Topics</th>
+      
+        <th>reading</th>
+      
+    </tr>
+   <tr>
+      
+        <th>1</th>
+      
+        <th>1</th>
+      
+        <th>Tue</th>
+      
+        <th>27-Aug</th>
+      
+        <th>Intro</th>
+      
+        <th>SE as a human activity and business concern; risk</th>
+      
+        <th></th>
+      
+        <th>Both</th>
+      
+        <th></th>
+      
+        <th>Tools for collaborative software development</th>
+      
+        <th></th>
+      
+        <th></th>
+      
+        <th></th>
+      
+        <th></th>
+      
+        <th>28-Aug</th>
+      
+        <th>20190827</th>
+      
+        <th></th>
+      
+    </tr>
+</table>
+<p>==================================================</p>
+
+<table>
+  
+    
+     <tr>
+        <th></th>
+    </tr>
+    <tr>
+      
+        <th>Week</th>
+      
+        <th>Lec</th>
+      
+        <th>Day</th>
+      
+        <th>date</th>
+      
+        <th>Unit</th>
+      
+        <th>Topics</th>
+      
+        <th>reading</th>
+      
+        <th>Who</th>
+      
+        <th>Gone</th>
+      
+        <th>Recitations</th>
+      
+        <th>Out</th>
+      
+        <th>Assignment Due</th>
+      
+        <th>Notes</th>
+      
+        <th>slideslink</th>
+      
+        <th>recDate</th>
+      
+        <th>dateplain</th>
+      
+        <th>Previous readings (to not lose them)</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      1
+    </td><td class="col2">
+      1
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      27-Aug
+    </td><td class="col5">
+      Intro
+    </td><td class="col6">
+      SE as a human activity and business concern; risk
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Both
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Tools for collaborative software development
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      28-Aug
+    </td><td class="col16">
+      20190827
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      2
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      29-Aug
+    </td><td class="col5">
+      Metrics
+    </td><td class="col6">
+      Metrics and Measurement
+    </td><td class="col7">
+      Scheduling survey
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      30-Aug
+    </td><td class="col16">
+      20190829
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      2
+    </td><td class="col2">
+      3
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      3-Sep
+    </td><td class="col5">
+      Case Study
+    </td><td class="col6">
+      healthcare.gov
+    </td><td class="col7">
+      TIME Magazine 3/10/14, article "Code Red" &amp; Wikipedia on healthcare.gov
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Docker and docker compose
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      4-Sep
+    </td><td class="col16">
+      20190903
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      4
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      5-Sep
+    </td><td class="col5">
+      Process 1: planning
+    </td><td class="col6">
+      Milestones, estimation, planning
+    </td><td class="col7">
+      Homework 2
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW1 Individual testing/metrics
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      6-Sep
+    </td><td class="col16">
+      20190905
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      3
+    </td><td class="col2">
+      5
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      10-Sep
+    </td><td class="col5">
+      Requirements
+    </td><td class="col6">
+      Concepts, challenges
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Metrics and sneaky Django
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      11-Sep
+    </td><td class="col16">
+      20190910
+    </td><td class="col17">
+      Sommerville, Software Engineering, Chapter "Project management"
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      6
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      12-Sep
+    </td><td class="col5">
+      Requirements
+    </td><td class="col6">
+      Elicitation and documentation
+    </td><td class="col7">
+      Requirements notes
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW2a: Initial process planning, sprint 1 report
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      13-Sep
+    </td><td class="col16">
+      20190912
+    </td><td class="col17">
+      Pfleeger and Atlee. Software Engineering: Theory and Practice. Chapter 2, excerpts
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      4
+    </td><td class="col2">
+      7
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      17-Sep
+    </td><td class="col5">
+      Requirements
+    </td><td class="col6">
+      Validation and Risk
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Requirements Interviews
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      18-Sep
+    </td><td class="col16">
+      20190917
+    </td><td class="col17">
+      Fowler and Highsmith, The Agile Manifesto and Evenstad, Universal Credit: How did it go so wrong? Computerweekly, 2018
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      8
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      19-Sep
+    </td><td class="col5">
+      Ethics?
+    </td><td class="col6">
+      Ethics!
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      Claire
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW2b: Feature implementation, QA, documentation
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      20-Sep
+    </td><td class="col16">
+      20190919
+    </td><td class="col17">
+      Larman. Applying UML and Patterns. Chapter "Use Cases"
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      5
+    </td><td class="col2">
+      9
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      24-Sep
+    </td><td class="col5">
+      SE4ML 1
+    </td><td class="col6">
+      NEW
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Architectural Assessment and Decisions
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW2c,d: Reflection
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      25-Sep
+    </td><td class="col16">
+      20190924
+    </td><td class="col17">
+      Sommerville, Software Engineering, Chapter "Safety Critical Systems"
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      10
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      26-Sep
+    </td><td class="col5">
+      SE4ML 2
+    </td><td class="col6">
+      NEW
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Issac Faber
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      27-Sep
+    </td><td class="col16">
+      20190926
+    </td><td class="col17">
+      Video "Microservices at Netflix Scale: Principles, Tradeoffs &amp; Lessons Learned"
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      6
+    </td><td class="col2">
+      11
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      1-Oct
+    </td><td class="col5">
+      Architecture
+    </td><td class="col6">
+      Introduction
+    </td><td class="col7">
+      Twitter: "New Tweets per second record, and how!"
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      ML (scikit titanic)
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      hw2a Requirements
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      2-Oct
+    </td><td class="col16">
+      20191001
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      12
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      3-Oct
+    </td><td class="col5">
+      Architecture
+    </td><td class="col6">
+      Documentation, patterns, tactics, evaluation
+    </td><td class="col7">
+      Shaw, Garlan. Software Architecture: Perspectives on an Emerging Discipline, Chapter "A. Styles" and Bass et al. Software Architecture in Practice, Chapter "Understanding QA."
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      hw2b Requirements (Reflection)
+    </td><td class="col13">
+      (need sub for recitation, Michael will be out)
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      4-Oct
+    </td><td class="col16">
+      20191003
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      7
+    </td><td class="col2">
+      13
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      8-Oct
+    </td><td class="col5">
+      Architecture
+    </td><td class="col6">
+      Kevin + Design Docs
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      Kevin here
+    </td><td class="col10">
+      CI++
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW3: 
+Arch 1, milestone A: setup of ML, code, microservices
+ 
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      9-Oct
+    </td><td class="col16">
+      20191008
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      10-Oct
+    </td><td class="col5">
+      Architecture
+    </td><td class="col6">
+      Microservices
+    </td><td class="col7">
+      Anderson. Security Engineering, Ch. 1
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW3: Arch 1, milestone B: design doc?
+ 
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      11-Oct
+    </td><td class="col16">
+      20191010
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      8
+    </td><td class="col2">
+      14
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      15-Oct
+    </td><td class="col5">
+      DevOps
+    </td><td class="col6">
+      Devops
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Midterm Review
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      16-Oct
+    </td><td class="col16">
+      20191015
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      15
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      17-Oct
+    </td><td class="col5">
+      Midterm
+    </td><td class="col6">
+      % (grades due ?)
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      18-Oct
+    </td><td class="col16">
+      20191017
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      9
+    </td><td class="col2">
+      16
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      22-Oct
+    </td><td class="col5">
+      QA
+    </td><td class="col6">
+      Introduction to QA &amp; Testing
+    </td><td class="col7">
+      ?
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      Oct 21: Mid-semester grades due
+    </td><td class="col10">
+      Kubernetes
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      23-Oct
+    </td><td class="col16">
+      20191022
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      17
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      24-Oct
+    </td><td class="col5">
+      QA
+    </td><td class="col6">
+      Static analysis
+    </td><td class="col7">
+      Schwartzbach static analysis notes
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      15 min skype 
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      25-Oct
+    </td><td class="col16">
+      20191024
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      10
+    </td><td class="col2">
+      18
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      29-Oct
+    </td><td class="col5">
+      QA
+    </td><td class="col6">
+      Chaos Engineering
+    </td><td class="col7">
+      ?Netflix blog on Simian Army?
+    </td><td class="col8">
+      Chris
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Chaos Engineering
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      HW3:  Arch 1: ML predictor, microservices
+
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      30-Oct
+    </td><td class="col16">
+      20191029
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      19
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      31-Oct
+    </td><td class="col5">
+      Process + Teams
+    </td><td class="col6">
+      ML explainability + Testing
+    </td><td class="col7">
+      Sadowski et al. Lessons from Building Static Analysis Tools at Google. CACM, 2018
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      Claire Gone?
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      15 min skype
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      1-Nov
+    </td><td class="col16">
+      20191031
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      11
+    </td><td class="col2">
+      20
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      5-Nov
+    </td><td class="col5">
+      Process + Teams
+    </td><td class="col6">
+      QA Process
+    </td><td class="col7">
+      Hernan et al. Uncover Security Design Flaws Using The STRIDE Approach. MSDN 2006
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      Chris Gone 3-6
+    </td><td class="col10">
+      Agile Methods
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Arch 2: design doc for new use cases
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      6-Nov
+    </td><td class="col16">
+      20191105
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      21
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      7-Nov
+    </td><td class="col5">
+      Process + Teams
+    </td><td class="col6">
+      More QA Process
+    </td><td class="col7">
+      Pink. Drive: The surprising truth about what motivates us. RSA Talk 2010
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      8-Nov
+    </td><td class="col16">
+      20191107
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      12
+    </td><td class="col2">
+      22
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      12-Nov
+    </td><td class="col5">
+      Process + Teams
+    </td><td class="col6">
+      Team issues,Motivation, Code Review?
+    </td><td class="col7">
+      DeMarco and Lister. Peopleware. 2013 Ch. 22, 23, and 28
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      Claire Gone
+    </td><td class="col10">
+      Team dysfunctions
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      13-Nov
+    </td><td class="col16">
+      20191112
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      23
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      14-Nov
+    </td><td class="col5">
+      Business models
+    </td><td class="col6">
+      Code Review, Agile/XP?
+    </td><td class="col7">
+      Richard Stallman's TEDx Geneva 2014 talk
+    </td><td class="col8">
+      Michael
+    </td><td class="col9">
+      Claire Gone
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      15-Nov
+    </td><td class="col16">
+      20191114
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      13
+    </td><td class="col2">
+      24
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      19-Nov
+    </td><td class="col5">
+      Process + Teams
+    </td><td class="col6">
+      Open source
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Claire
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Open Source
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      QA Analysis
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      20-Nov
+    </td><td class="col16">
+      20191119
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      21-Nov
+    </td><td class="col5">
+      Privacy?
+    </td><td class="col6">
+      Interviewing? SRE?
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      Adam
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      22-Nov
+    </td><td class="col16">
+      20191121
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      14
+    </td><td class="col2">
+      25
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      26-Nov
+    </td><td class="col5">
+      no class
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      Buse, Zimmermann. Information Needs for Software Development Analytics. ICSE 2012
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      No Recitation
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      27-Nov
+    </td><td class="col16">
+      20191126
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      26
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      28-Nov
+    </td><td class="col5">
+      no class
+    </td><td class="col6">
+      Thanksgiving
+    </td><td class="col7">
+      Sourour. The code Iâ€™m still ashamed of. Blog post, 2016
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      29-Nov
+    </td><td class="col16">
+      20191128
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      15
+    </td><td class="col2">
+      27
+    </td><td class="col3">
+      Tue
+    </td><td class="col4">
+      3-Dec
+    </td><td class="col5">
+      TBD/Code Archeology?
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      Code Archeology?
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      4-Dec
+    </td><td class="col16">
+      20191203
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      28
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      5-Dec
+    </td><td class="col5">
+      TBD/Code Archeology 2?
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      -
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      hw6b Open source excursion - report
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      6-Dec
+    </td><td class="col16">
+      20191205
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      29
+    </td><td class="col3">
+      Thu
+    </td><td class="col4">
+      TBD
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      1
+    </td><td class="col10">
+      No recitation
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      TBD
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Assignments:
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Findbugs
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Inspection
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      0
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Requirements Interviews
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      0
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Requirements Specification
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Architecture something
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      Testing something
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      measurement?
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      
+    </td><td class="col2">
+      
+    </td><td class="col3">
+      
+    </td><td class="col4">
+      Textbook
+    </td><td class="col5">
+      
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td><td class="col11">
+      
+    </td><td class="col12">
+      
+    </td><td class="col13">
+      
+    </td><td class="col14">
+      
+    </td><td class="col15">
+      
+    </td><td class="col16">
+      
+    </td><td class="col17">
+      
+    </td></tr>
+
+  
+</table>
+
+:ET

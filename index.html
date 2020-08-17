@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+
+    <table>
+      {% for row in site.data.schedule %}
+        {% if forloop.first %}
+        <tr>
+          {% for pair in row %}
+            <th>{{ pair[0] }}</th>
+          {% endfor %}
+        </tr>
+        {% endif %}
+    
+        {% tablerow pair in row %}
+          {{ pair[1] }}
+        {% endtablerow %}
+      {% endfor %}
+    </table>
+    
+  </body>
+</html>

@@ -1,0 +1,45 @@
+Here's some rough notes about the reception of recitation 1.
+
+- It's a bit too much for the 50 minute slot.  I found myself trying
+to restrict myself to 20 minutes on a quick Git primer and then
+git-flow, but students wanted more (and kept asking questions) on how
+the process would really be used in a real project -- asking
+practical, applied questions. Many struggled when I asked if they
+understood it -- it's hard if you've never worked on a real product
+where you actually have to ship bug fixes and features at the same
+time.
+
+- Not many students made it all the way through the four activities.
+Because we ask them to pair late, students who *got* it, ended up
+waiting 10 minutes or more for a partner to be free to proceed.  I
+told the students that it was of upmost importance to make sure you
+get this and if not to come by office hours and I would be their pair
+to help them finish it -- two did today and I have more coming
+tomorrow.
+
+- Generally speaking, the knowledge gap between many of the students
+is large -- some had no problem at all, some struggled their way
+through.  Instructions need to be modified -- a few of the errors that
+are supposed to happen only happen with particular versions of Git so
+it left some students confused.
+
+- The Java example should be provided as code.  It's only there so
+they commit something that makes a conflict -- I had the following
+comments from students trying to get through this part:
+
+    - Do I need to get this to compile?
+    - How can I make a .Java file without Eclipse or IntelliJ?
+    - Do I need to commit the .class file?
+
+- Using the merge resolution in GitHub UI makes a master into develop
+commit as part of the merge -- this mystified students as they were
+trying to merge develop into master -- artifact of the process.
+
+- Many students asked about merging locally -- how to do it, what
+tools to use, etc.
+
+I feel we could do a little additional section on Git if we wanted to
+-- maybe have a codebase where we have a scenario where one group
+needs to do a feature, and another needs to do a bugfix and actually
+demonstrate the git-flow process, some thing where we get the teams to
+work within each team and then across teams.  I dunno, just thoughts.
